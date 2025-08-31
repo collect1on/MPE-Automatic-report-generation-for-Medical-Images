@@ -57,8 +57,9 @@ FastLanguageModel.for_inference(model)
 img_base_dir = '/group/ems010/sliu/images/images_normalized'
 
 # Indiana chest X-ray reports and projections
-reports_df = pd.read_csv('/group/ems010/sliu/indiana_reports.csv')
-projections_df = pd.read_csv('/group/ems010/sliu/indiana_projections.csv')
+
+reports_df = pd.read_csv("PATH_TO_INDIANA_REPORTS_CSV")
+projections_df = pd.read_csv("PATH_TO_INDIANA_PROJECTIONS_CSV")
 
 # Custom dataset wrapper for image-report pairs
 class ImageCaptionData:
