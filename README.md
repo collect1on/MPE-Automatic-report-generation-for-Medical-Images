@@ -6,6 +6,12 @@ The full details can be found in **Project Report.pdf**.
 
 Below is the complete execution workflow:
 
+
+0. **Set Up Development Environment**  
+
+I used the project_environment.yml file to configure the environment.
+Please adjust the environment setup according to your own system and requirements.
+
 1. **Fine-tuning LLaMA 3**  
    Run `train_llama_pretrained.py` to fine-tune the LLaMA 3 model.
 
