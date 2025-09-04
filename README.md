@@ -17,6 +17,21 @@
 
 
 
+### Project Showcase
+
+1. **Joint Model's Block Diagram**  
+<img src="https://github.com/collect1on/MPE-Automatic-report-generation-for-Medical-Images/blob/main/folder_for_readme_picture/Joint%20Model's%20block%20diagram.png" width="600">
+
+2. **Vector Dimension Change Block Diagram**  
+<img src="https://github.com/collect1on/MPE-Automatic-report-generation-for-Medical-Images/blob/main/folder_for_readme_picture/Vector%20Dimension%20Change%20Block%20Diagram%20.png" width="600">
+
+3. **Test Results Example**  
+<img src="https://github.com/collect1on/MPE-Automatic-report-generation-for-Medical-Images/blob/main/folder_for_readme_picture/Test%20results%20example.png" width="600">
+
+4. **Text Quality Metrics Evaluation and Boxplot**  
+<img src="https://github.com/collect1on/MPE-Automatic-report-generation-for-Medical-Images/blob/main/folder_for_readme_picture/Text%20quality%20metrics%20evaluation%20and%20Text%20quality%20metrics%20evaluation%20boxplot.png" width="600">
+
+
 
 This project is my individual Master's research project, which took one year to complete.  
 The full details can be found in **Project Report.pdf**.  
