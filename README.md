@@ -1,19 +1,6 @@
 # MPE-Automatic-report-generation-for-Medical-Images
 
 
-### Project Showcase
-
-1. **Joint Model's Block Diagram**  
-![Joint Model's block diagram](https://github.com/collect1on/MPE-Automatic-report-generation-for-Medical-Images/blob/main/folder_for_readme_picture/Joint%20Model's%20block%20diagram.png)
-
-2. **Vector Dimension Change Block Diagram**  
-![Vector Dimension Change Block Diagram](https://github.com/collect1on/MPE-Automatic-report-generation-for-Medical-Images/blob/main/folder_for_readme_picture/Vector%20Dimension%20Change%20Block%20Diagram%20.png)
-
-3. **Test Results Example**  
-![Test results example](https://github.com/collect1on/MPE-Automatic-report-generation-for-Medical-Images/blob/main/folder_for_readme_picture/Test%20results%20example.png)
-
-4. **Text Quality Metrics Evaluation and Boxplot**  
-![Text quality metrics evaluation and Text quality metrics evaluation boxplot](https://github.com/collect1on/MPE-Automatic-report-generation-for-Medical-Images/blob/main/folder_for_readme_picture/Text%20quality%20metrics%20evaluation%20and%20Text%20quality%20metrics%20evaluation%20boxplot.png)
 
 
 
